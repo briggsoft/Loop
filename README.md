@@ -1,2 +1,3 @@
 # Loop
-was dis a joke?
+Added main menu
+Added Advertblocks
